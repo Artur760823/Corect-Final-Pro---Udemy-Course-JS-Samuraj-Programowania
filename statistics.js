@@ -1,4 +1,4 @@
-class statistics {
+class Statistics {
   constructor() {
     this.gameResults = [{ win: true, bid: 2 }, { win: false, bid: -10 }];
   }
@@ -20,5 +20,5 @@ class statistics {
   }
 }
 
-const stats = new statistics();
+// const stats = new Statistics();
 
