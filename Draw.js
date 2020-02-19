@@ -18,4 +18,4 @@ class Draw {
     return colors;
   }
 }
-const draw = new Draw();
+// const draw = new Draw();
